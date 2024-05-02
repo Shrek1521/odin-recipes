@@ -1,2 +1,2 @@
 # odin-recipes
-Odin Project Recipes Project
+This is my Odin Project Recipes Project Repo
